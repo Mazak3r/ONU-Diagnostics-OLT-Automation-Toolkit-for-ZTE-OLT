@@ -1,0 +1,11 @@
+{
+    "smartolt_url": "https://smartolt.com/onu/configured",
+    "olt_credentials": {
+        "user": "admin",
+        "pass": "admin"
+    },
+    "olt_ips": {
+        "Olt1": "192.168.1.10",
+        "Olt2": "192.168.1.11"
+    }
+}
